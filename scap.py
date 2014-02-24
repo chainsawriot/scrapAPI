@@ -52,7 +52,7 @@ seekMaxPage(alltr) ## second item is the max page
 
 
 ### ecap the whole thing into a function
-### change the pagenum in the url from 1 to the maxPage seek by seekMaxPage
+### change the pagenum in the url from 1 to range of 2 to maxPage seek by seekMaxPage
 ### lather, rinse, repeat. But remember to add some try excepts...
 
 ### acknowledge me in your paper, perhaps?
